@@ -1,1 +1,1 @@
-# EC
+# Example Code
